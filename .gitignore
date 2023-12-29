@@ -8,4 +8,4 @@ z*
 .env
 
 #Ignore the artifacts folder at the root folder
-/artifacts
+/artifacts/
