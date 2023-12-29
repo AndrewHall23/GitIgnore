@@ -1,1 +1,11 @@
 node_modules/
+
+#Ignore all commits with the letter Z
+z*
+
+#Ignore all files with .env extention types
+
+.env
+
+#Ignore the artifacts folder at the root folder
+/artifacts
